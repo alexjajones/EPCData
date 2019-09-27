@@ -1,0 +1,9 @@
+{
+  "postgres_host": "postgres",
+  "postgres_user": "application",
+  "postgres_password": "strong_password",
+  "postgres_db": "postgres",
+  "postgres_table_name": "epc",
+  "data_columns": ["LMK_KEY", "LODGEMENT_DATE", "TRANSACTION_TYPE", "TOTAL_FLOOR_AREA", "ADDRESS", "POSTCODE"],
+  "epc_data_url": "example-data.zip"
+}
